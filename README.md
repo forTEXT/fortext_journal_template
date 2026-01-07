@@ -258,19 +258,19 @@ _Beispiele:_ “Einführungssession”, “Einführung in CATMA”, “Lektüred
 * <ins>Spalte 4 (Inhalt)</ins>  
 Zählen Sie die Inhalte auf, die in der Sitzung behandelt werden (z.B. Einführung in ein Tool, Diskussion von Lektüre, Projektpräsentation etc.)
 _Beispiele:_ “Organisatorisches, Theoretische Einführung in CATMA”, “Seminarlektüre @autorcitekey”,“Einführung zum Thema Figurenanalyse mit Slides @slidesimAnhang”, “Annotationstool CATMA: www.catma.de”
-  * _Hinweis:_ Bitte fügen Sie die dafür relevanten Metadaten wie zu Präsentationen auch in das Literaturverzeichnis hinzu und referenzieren Sie den entsprechenden Citekey bei der Aufzählung. Wenn Sie beispielsweise optional weitere Dokumente einreichen, müssen diese auch in ihrem Literaturverzeichnis hinterlegt sein.
+  * _Hinweis:_ Bitte fügen Sie relevante Metadaten zu bspw. Lektüre auch in das Literaturverzeichnis hinzu und referenzieren Sie den entsprechenden Citekey bei der Aufzählung.
 * <ins>Spalte 5 (Lern-)ziel(e))</ins>  
 Nennen Sie das Lernziel der SItzung/Einheit
 _Beispiele:_ “Visualisierungsmöglichkeiten von CATMA lernen”, “Texte im Tool CATMA hochladen”, Grundlagen der Figurenanalyse verstehen und anwenden”
 * <ins>Spalte 6 (Vorbereitung für Studierende)</ins>  
-Zählen Sie die Inhalte auf, die die Studierenden bis zu dieser Sitzung/Einheit vorbereiten sollen (Recherche, Lesen, Videos anschauen). Benennen Sie diese Inhalte explizit, indem sie Citekeys aufführen 
+Zählen Sie die Inhalte auf, die die Studierenden bis zu dieser Sitzung/Einheit vorbereiten sollen (Recherche, Lesen, Videos anschauen). Führen Sie ggf. entsprechende Citekeys auf.
 Beispiele: “Lesen des Kapitels 2.3. zu Narratologie in @fortextetal2026”, “Kontoeinrichtung auf catma.de” 
 * <ins>Spalte 7 (Lehrvorbereitung)</ins>  
-Zählen Sie Inhalte wie (weiterführende) Literatur, Webseiten oder notwendige Vorbereitungen auf, die für Lehrende für diese Sitzung relevant sind. Zählen Sie diese durch Citekeys und/oder verlinkte Schlagwörter nach Markdownsyntax auf.
+Zählen Sie die für die Lehrperson für diese Sitzung relevanten Inhalte oder Vorbereitungen auf. Das können Vorbereitungen wie das Hochladen von Texten auf einer Plattform, das Anlegen eines Useraccounts oder die Nennung von (weiterführender) Literatur oder Webseiten sein. Referenzieren Sie relevante Literatur durch Citekeys.
 Beispiele: “@fortext2026, @hander2026”, “\[Podiumsdiskussion](www.annolehren345.de)”
 * <ins>Spalte 8 (Arbeitsauftrag)</ins>  
-Beschreiben Sie die Auf- bzw. Abgabe, die in dieser Sitzung/Einheit aufgetragen wird und nennen Sie die Sitzungsnummer/-einheit, zu welcher diese ggf. fällig ist. Nummerieren Sie den Arbeitsauftrag gegebenenfalls.
-Die ausführliche Aufgabenstellung können Sie unter Punkt 4 (“Sitzungsbeschreibungen”) in der detaillierten Sitzungsbeschreibung aufführen.
+Beschreiben Sie eine Auf- bzw. Abgabe, die den Studierenden in dieser Sitzung/Einheit aufgetragen wird und nennen Sie die Sitzungsnummer/-einheit, zu welcher diese ggf. fällig ist. Nummerieren Sie die Abgabe/Aufgabe gegebenenfalls. 
+Ein solcher Arbeitsauftrag sollte dann in der entsprechenden Sitzung unter "Vorbereitung für Studierende" genannt werden.
 _Beispiele:_ “Abgabe 1: Textzusammenfassung bis Sitzung 9”
 
 
