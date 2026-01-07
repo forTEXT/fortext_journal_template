@@ -105,18 +105,18 @@ _Hinweis_: Es ist nicht nötig, dass Sie am Ende Ihres Fließtextes eine Referen
  
 #### Zitieren mit Citekeys
 
-Alle Beiträge werden von der Redaktion unter der Nutzung von Pandoc formatiert und gelayoutet. Aus diesem Grund bitten wir Sie, sämtliche Referenzen als Citekeys anzugeben, d. h. alle In-Text-Verweise werden durch entsprechende Citekeys gesetzt. Citekeys können Sie in Ihrem Literaturverwaltungsprogramm manuell vergeben oder automatisiert generieren. Die meisten Literaturverwaltungsprogramme unterstützen die automatisierte Generierung von Citekeys. In Citavi können Sie diese Option beispielsweise freischalten. Wenn Sie mit Zotero arbeiten, können Sie die Erweiterung “Better BibTeX” installieren. Für jeden Eintrag in Ihrem Literaturverzeichnis werden dann automatisch Citekeys erstellt. Diese Citekeys nutzen Sie dann in Ihrer Einreichung, um Referenzen zu markieren.
+Alle Beiträge werden von der Redaktion unter der Nutzung von Pandoc formatiert und gelayoutet. Aus diesem Grund bitten wir Sie, sämtliche Referenzen als Citekeys anzugeben, d. h. alle In-Text-Verweise werden durch entsprechende Citekeys gesetzt. Citekeys können Sie in Ihrem Literaturverwaltungsprogramm manuell vergeben oder automatisiert generieren. Die meisten Literaturverwaltungsprogramme unterstützen die automatisierte Generierung von Citekeys. In Citavi können Sie diese Option beispielsweise freischalten (siehe:https://www1.citavi.com/sub/manual6/de/index.html?bibtex_keys.html). Wenn Sie mit Zotero arbeiten, können Sie die Erweiterung “Better BibTeX” installieren (https://retorque.re/zotero-better-bibtex/). Für jeden Eintrag in Ihrem Literaturverzeichnis werden dann automatisch Citekeys erstellt. Diese Citekeys nutzen Sie dann in Ihrer Einreichung, um Referenzen zu markieren.
 
-Grundsätzlich gilt:
+Ein In-Text Verweis mit einem Citekey beginnt grundsätzlich mit einem @. Darüber hinaus gibt es verschiedene Möglichkeiten die Referenz zu gestalten. Dabei gelten die folgenden Regeln:
 
-* dass Sie einen Citekey durch ein “@” markieren
-* [@fortextetal] führt zu (fortext 2023)
-* @fortextetal führt zu fortext (2023)
-* [@doe2023; @smith2022; @smith2021] führt zu (Doe 2023, Smith 2021, 2022)
-* [@fortext2021, 11 f.] führt zu (fortext 2021, 11 f.)
-* @Zimmermann-2000 [21--22] führt zu Zimmermann (2000, 21–22)
-* @Boekaerts-2000 [418--419, 432] führt zu Boekaerts und Niemivirta (2000, 418–419, 432)
-* [vgl. @Zimmermann-2000, 21-22;@Boekaerts-2000, 418--419, 432] wird zu (vgl. Zimmermann 2000, 21–22; Boekaerts und Niemivirta 2000, 418–419, 432)
+* Einfache Referenz in Klammern: [@smith2021] führt zu -> (Smith 2021)
+* Direkte Erwähnung: @smith2021 führt zu -> Smith (2021)
+* Mehrere Quellen: [@doe2023; @smith2022; @smith2021] führt zu -> (Doe 2023, Smith 2021, 2022) 
+* Seitenangabe: [@smith2021, 11 f.] führt zu -> (Smith 2021, 11 f.) 
+* Seitenangabe mehrseitig: [@smith2021, 11--14] führt zu -> (Smith 2021, 11-14)
+* Mehrere Seitenangaben:[@smith2021, 11--14, 102] führt zu -> (Smith 2021, 11-14, 102)
+* Seitenangaben bei direkter Erwähnung: @smith2021 [11--14] führt zu -> Smith (2021, 11-14)
+* Kombination der Regeln: [vgl. @Zimmermann-2000, 21-22;@Boekaerts-2000, 418--419, 432] führt -> zu (vgl. Zimmermann 2000, 21–22; Boekaerts und Niemivirta 2000, 418–419, 432)
 
 
 Weiter Hinweise zur Nutzung von Citekeys finden sie hier: https://pandoc.org/chunkedhtml-demo/8.20-citation-syntax.html
