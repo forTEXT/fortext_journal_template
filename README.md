@@ -128,17 +128,9 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 
 #### Anhänge
 
-Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Aufgabenvorschläge, Evaluationen etc. beifügen. Alle optionalen Anhänge geben Sie als PDF-Datei im Ordner “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der [```author_meta.yaml```](submission_template/author_meta.yaml), indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anänge zu verweisen verwenden Sie bitte eine Notation der Art "(siehe Anhang <Titel des Anhangs>)". 
-Sollten Sie im Fließtext auf Abbildungen verweisen, tun Sie dies bitte im Markdownstil und laden Sie diese als PNG-Dateien als Anhänge hoch. Für Abbildungen sind keine Einträge in Ihrem Literaturverzeichnis nötig.
+Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Aufgabenvorschläge, Evaluationen etc. beifügen. Alle optionalen Anhänge geben Sie als PDF-Datei im Ordner “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
+Legen Sie die Anhänge als PNG-Dateien im Ordner "anhänge" ab.
  
-
-#### Verweise zu Textabschnitten
-Für textinterne Verweise wie beispielsweise Verlinkungen zu Textabschnitten bitten wir Sie, diese gemäß den Konventionen der Markdown-Syntax zu erstellen. Für Textstellen wie “siehe Abs. Einführungstext”, die auf andere Abschnitte verweisen, können Sie Anker erstellen, indem Sie die zu verlinkende Textstelle in eckige Klammern (“[]”) setzen und das Ziel der Verlinkung in runde Klammern (“()”) setzen. In der Verlinkung werden Überschriften als sogenannte "Anker" referenziert, die durch ein vorangestelltes # und den Überschriftentext identifiziert werden.
-`[siehe Abschnitt](#zielüberschrift)` führt zu [siehe Abschnitt]() (mit Verlinkung zur Zielüberschrift).
-Wenn eine Überschrift mehrere Wörter enthält, wird der Anker automatisch aus dem Text der Überschrift generiert, wobei alle Leerzeichen durch Bindestriche ersetzt und Sonderzeichen entfernt oder angepasst werden. So wird beispielsweise aus der Überschrift 'Mein Abschnittstitel' der Anker #mein-abschnittstitel. Achten Sie daher darauf, die genaue Schreibweise des generierten Ankers zu verwenden, um eine korrekte Verlinkung sicherzustellen.
-Eine Anleitung für Verlinkungen auf Abschnitte mit einem ausfürhlichen Beispiel findet sich unter: https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links
- 
-
 
 ## Inhaltliche Aspekte der Artikelabschnitte
 
@@ -266,7 +258,7 @@ _Beispiele:_ “Visualisierungsmöglichkeiten von CATMA lernen”, “Texte im T
 Zählen Sie die Inhalte auf, die die Studierenden bis zu dieser Sitzung/Einheit vorbereiten sollen (Recherche, Lesen, Videos anschauen). Führen Sie ggf. entsprechende Citekeys auf.
 Beispiele: “Lesen des Kapitels 2.3. zu Narratologie in @fortextetal2026”, “Kontoeinrichtung auf catma.de” 
 * <ins>Spalte 7 (Lehrvorbereitung)</ins>  
-Zählen Sie die für die Lehrperson für diese Sitzung relevanten Inhalte oder Vorbereitungen auf. Das können Vorbereitungen wie das Hochladen von Texten auf einer Plattform, das Anlegen eines Useraccounts oder die Nennung von (weiterführender) Literatur oder Webseiten sein. Referenzieren Sie relevante Literatur durch Citekeys.
+Zählen Sie die für die Lehrperson für diese Sitzung relevanten Inhalte oder Vorbereitungen auf. Das können Vorbereitungen wie das Hochladen von Texten auf einer Lernplattform, das Anlegen eines Useraccounts oder die Nennung von (weiterführender) Literatur oder Webseiten sein. Referenzieren Sie relevante Literatur durch Citekeys.
 Beispiele: “@fortext2026, @hander2026”, “\[Podiumsdiskussion](www.annolehren345.de)”
 * <ins>Spalte 8 (Arbeitsauftrag)</ins>  
 Beschreiben Sie eine Auf- bzw. Abgabe, die den Studierenden in dieser Sitzung/Einheit aufgetragen wird und nennen Sie die Sitzungsnummer/-einheit, zu welcher diese ggf. fällig ist. Nummerieren Sie die Abgabe/Aufgabe gegebenenfalls. 
