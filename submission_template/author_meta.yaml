@@ -134,8 +134,18 @@ reviewers:
 - name:
   email:
   orcid:
+  role: primary
 - name:
   email:
   orcid:
-
+  role: secondary
+editors:
+  # - name: 
+  #   email: 
+  #   role: guest
+  #   orcid:
+  - name: Evelyn Gius
+    email: evelyn.gius@tu-darmstadt.de
+    orcid: 0000-0001-8888-8419
+    role: editor-in-chief
   
