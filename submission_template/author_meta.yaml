@@ -114,6 +114,7 @@ license:
 container-title: forTEXT
 type: article-journal
 article:
+  categories: Article
   doi: 
   volume: 3
   issue: 1
