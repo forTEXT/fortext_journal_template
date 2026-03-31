@@ -44,18 +44,11 @@ author:
   social-media-handles: ["blueskyhandle","mastodonusername"]
 
 
-# Zählen Sie hier die Autor*innen auf
-copyright_:
-- holder:
-  - Vorname1 Nachname1
-  - Vorname2 Nachname2
-  statement: '>-  © 2019 The authors. Published under a CC BY license.'
-  year: '2025'
 
 
 # Weitere Metadaten
 
-tags: # Hier tragen sie 5 keywords ein
+tags: # Hier tragen sie 5 keywords ein, Auswahl: https://journal.fortext.org/site/fortext_keywords/
   - keyword1
   - keyword2
   - keyword3
@@ -121,7 +114,7 @@ article:
   issuetitle: Textannotation in der Hochschullehre
   beitragstyp:
   date:
-    iso-8601: 
+    iso8601: 
     year: 2026
   #only add if applicable
   # version: #
@@ -129,18 +122,25 @@ article:
   #   #aktuelle versionsnummer
   #   # see https://www.niso.org/sites/default/files/2017-08/RP-8-2008.pdf for vocab
   #   # CVoR = Corrected Version of Record, VoR = Version of Record, AO = AUthor's Original
-  #   article-version-type: 
-  #   vocab-term: 
+  #   article-version-type: #hier abkürzung als string
+  #   vocab-term: #hier ausgeschrieben als string
   #   previous_version:
   #     prev_version_date: 
   #     prev_version-number: 
 
+copyright:
+    year: 2026
+    statement: '>-  © 2026 The authors. Published under a CC BY license.'
+    holder:
+      - Vorname Nachname 1
+      - Vorname Nachname 2
+
 history:
   received: 
-    iso-8601: 
+    iso8601: 
     year: 2026
   accepted: 
-    iso-8601: 
+    iso8601: 
     year: 2026
 reviewers:
 - name:

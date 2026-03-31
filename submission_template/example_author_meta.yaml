@@ -40,8 +40,8 @@ copyright_:
 - holder:
   - Mari Akazawa
   - Janis von Keitz
-  statement: '>-  © 2019 The authors. Published under a CC BY license.'
-  year: '2025'
+  statement: '>-  © 2026 The authors. Published under a CC BY license.'
+  year: '2026'
 
 
 # Weitere Metadaten
@@ -100,6 +100,7 @@ article:
   issue: 1
   issuetitle: Textannotation in der Hochschullehre
   beitragstyp:
+  categories: Article
   date:
     iso-8601: 
     year: 2026
