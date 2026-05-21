@@ -55,24 +55,6 @@ tags: # Hier tragen sie 5 keywords ein, Auswahl: https://journal.fortext.org/sit
   - keyword4
   - keyword5
 
-va_type: # Veranstaltungstyp z.B. Workshop, Mehrere Sitzungen einer Lehrveranstaltung, Semesterplan, Hackathon etc.
-no_type: # Anzahl der Sitzungen in Tagen z.B. eintägiger Workshop == 1 etc.
-
-# Anhänge
-# Dieser Abschnitt enthält eine Liste der Anhänge.
-# Wichtige Hinweise zur Bearbeitung:
-# - Jeder Anhang muss in einer neuen Zeile mit einem Bindestrich (-) beginnen.
-# - Für jeden Anhang müssen die Felder "title", "year" und "author" angegeben werden.
-# - Falls keine weniger (oder keine) Anhänge vorhanden sind, müssen die nicht benötigten Einträge entsprechend entfernt werden
-# - Falls zusätzliche Anhänge hinzugefügt werden, müssen sie nach demselben Muster ergänzt werden.
-
-appendices:
-  - title: "enter your title here"
-    year: 2024
-    author: name of the author here
-  - title: "enter your title here"
-    year: 2024
-    author: name of the author here
 
 
 
@@ -81,18 +63,7 @@ appendices:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Ab hier ist keine weitere Bearbeitung notwendig.
+# Ab hier ist KEINE weitere Bearbeitung durch AUTOR*INNEN notwendig.
 
 journal:
 - container-title: forTEXT
@@ -104,17 +75,21 @@ license:
 - link: https://creativecommons.org/licenses/by/4.0/
   text: '>-This work is licensed under a Creative Commons Attribution 4.0 International License.'
   type: open-access
-container-title: forTEXT
-type: article-journal
+
+# AB HIER AKTUALISIEREN 
+
+
+beitragstyp: 
 article:
+  type: article-journal
   categories: Article
   doi: 
   volume: 3
   issue: 1
   issuetitle: Textannotation in der Hochschullehre
-  beitragstyp:
+  beitragstyp: #Auswahl: Editorial, Lehrkonzept, Methodenbeitrag 
   date:
-    iso8601: 
+    iso8601: #muster: 2026-03-12
     year: 2026
   #only add if applicable
   # version: #
@@ -132,8 +107,8 @@ copyright:
     year: 2026
     statement: '>-  © 2026 The authors. Published under a CC BY license.'
     holder:
-      - Vorname Nachname 1
-      - Vorname Nachname 2
+      - Vorname Nachname 1 #authors
+      - Vorname Nachname 2 #authors
 
 history:
   received: 
@@ -142,6 +117,7 @@ history:
   accepted: 
     iso8601: 
     year: 2026
+
 reviewers:
 - name:
   email:
