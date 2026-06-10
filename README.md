@@ -17,7 +17,7 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Zitieren mit Citekeys](#zitieren-mit-citekeys)
     * [Markdown-Syntax](#markdown-syntax)
     * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
-    * [Anhänge](#anhänge)
+    * [Anhänge für Lehrmodule](#anhänge-für-lehrmodule)
   * [Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten](#inhaltliche-aspekte-der-artikelabschnitte-von-lehrkonzepten)
 * [Guidelines zur Einreichung von Methodenbeiträgen](#guidelines-zur-einreichung-von-methodenbeiträgen)
   * [Umfang](#umfang)
@@ -29,7 +29,7 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Zitieren mit Citekeys](#zitieren-mit-citekeys)
     * [Markdown-Syntax](#markdown-syntax)
     * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
-    * [Anhänge](#anhänge)
+    * [Anhänge für Methodenbeiträge](#anhänge-für-methodenbeiträge)
   * [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen)
 
 #### Vorlagen
