@@ -37,9 +37,9 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
 Der Ordner [`submission_template`](submission_template) beinhaltet zwei Unterordner mit Vorlagen für die Bestandteile Ihrer Einreichung. Um diese zu nutzen, können Sie die Dateien herunterladen und mit eigenen Inhalten füllen. 
 Verwenden Sie... 
 * für den Beitragstext die Datei [`template_lehrmodul/text.docx`](submission_template/template_lehrkonzept/text.docx) oder [`template_methodenbeitrag/text.docx`](submission_template/template_methodenbeitrag/text.docx),
-* für die Sitzungsübersicht bzw. den Ablaufplan eines Lehrmoduls [`table.csv`](submission_template/table.csv) (nicht relevant für Methodenbeiträge),
-* für die Bibiographie [`bibliography.json`](submission_template/bibliography.json), [`bibliography.bib`](submission_template/bibliography.bib) oder eine äquivalente Datei mit dem Suffix '.bibtex',
-* für die Autor\*innen-Metadaten die Datei [`author_meta.yaml`](submission_template/author_meta.yaml).
+* für die Sitzungsübersicht bzw. den Ablaufplan eines Lehrmoduls [`table.csv`](submission_template/template_lehrkonzept/table.csv) (nicht relevant für Methodenbeiträge),
+* für die Bibiographie [`template_lehrkonzept/bibliography.json`](submission_template/template_lehrkonzept/bibliography.json), [`template_lehrkonzept/bibliography.bib`](submission_template/template_lehrkonzept/bibliography.bib) bzw. [`template_methodenbeitrag/bibliography.json`](submission_template/template_methodenbeitrag/bibliography.json), [`template_methodenbeitrag/bibliography.bib`](submission_template/template_methodenbeitrag/bibliography.bib) oder eine äquivalente Datei mit dem Suffix '.bibtex',
+* für die Autor\*innen-Metadaten die Datei [`template_lehrkonzept/author_meta.yaml`](submission_template/template_lehrkonzept/author_meta.yaml) oder [`template_methodenbeitrag/author_meta.yaml`](submission_template/template_methodenbeitrag/author_meta.yaml).
 
 Für Anhänge erstellen Sie einen Ordner "Anhänge", in den Sie alle weiteren Dateien im PDF-Format legen.
 Alle Dateien reichen Sie dann komprimiert als ZIP-Ordner ein. 
