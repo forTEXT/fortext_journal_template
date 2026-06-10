@@ -1,0 +1,140 @@
+# Legen Sie hier die für die Publikation relevanten Metadaten ab:
+# Titel, Autor*innen inkl. Metadaten, Affiliations, Keywords, Information zum Veranstaltungstypen sowie Anzahl der Sitzungen
+
+# !!! Achtung: Bitte füllen sie lediglich die vorhandenen Felder aus. 
+# !!! Fügen sie keine neuen Felder hinzu, benennen sie die bestehenden nicht um und löschen Sie keine Felder, wenn dies nicht 
+# !!! explizit in der Beschreibung des Feldes gefordert ist.
+
+# Fügen Sie hier den Titel ihres Beitrags in Anführungszeichen ein. 
+title: "Titel des Beitrags"
+
+
+# Für jede Affiliation vergeben Sie eine ID. Mit dieser ID weisen sie im nächsten Schrit den Autor*innen die jeweilige Affiliation zu. 
+# Falls sie mehr oder weniger Affiliations benötigen, fügen sie für jede Affiliation ein Feld "id" und ein Feld "organization" hinzu bzw.
+# bzw. löschen die nicht benötigten Felder.
+affiliation:
+- id: 1
+  organization: Affiliation1
+- id: 2
+  organization: Affiliation2
+
+# Zählen Sie hier die Autor*innen des Beitrags auf.
+# Sollte es sich nur um eine Person handeln, löschen sie die Platzhalter für weitere Einträge, die mit "- affiliation:" beginnen
+# Für jede Affiliation wird eine oben definierte ID gesetzt.
+# Für AutorInnen ohne Affiliation bleibt das Feld bestehen, es wird aber keine Zahl gesetzt 
+# Bitte nennen Sie den/die Erstautor*in zuerst
+
+author:
+- affiliation: 1
+  given-names: Vorname1
+  surname: Nachname1
+  email: Mailadresse
+  orcid: Orcid oder Zeile löschen wenn nicht vorhanden
+  social-media-handles: ["blueskyhandle","mastodonusername"]
+
+- affiliation: 2
+  email: Mailadresse2
+  given-names: Vorname2
+  surname: Nachname2
+- affiliation: 1
+  given-names: Vorname3
+  surname: Nachname3
+  email: Mailadresse
+  orcid: Orcid oder Zeile löschen wenn nicht vorhanden
+  social-media-handles: ["blueskyhandle","mastodonusername"]
+
+
+
+
+# Weitere Metadaten
+
+tags: # Hier tragen sie 5 keywords ein, Auswahl: https://journal.fortext.org/site/fortext_keywords/
+  - keyword1
+  - keyword2
+  - keyword3
+  - keyword4
+  - keyword5
+
+
+
+
+
+
+
+
+
+# Ab hier ist KEINE weitere Bearbeitung durch AUTOR*INNEN notwendig.
+
+journal:
+- container-title: forTEXT
+  publisher-loc: Darmstadt
+  publisher-name: Universitäts- und Landesbibliothek Darmstadt
+  title: forTEXT
+  eissn: 2943-212X
+license:
+- link: https://creativecommons.org/licenses/by/4.0/
+  text: '>-This work is licensed under a Creative Commons Attribution 4.0 International License.'
+  type: open-access
+
+# AB HIER AKTUALISIEREN 
+
+
+beitragstyp: 
+article:
+  type: article-journal
+  categories: Article
+  doi: 
+  volume: 3
+  issue: 1
+  issuetitle: Textannotation in der Hochschullehre
+  beitragstyp: #Auswahl: Editorial, Lehrkonzept, Methodenbeitrag 
+  date:
+    iso8601: #muster: 2026-03-12
+    year: 2026
+  #only add if applicable
+  # version: #
+  #   version-number:
+  #   #aktuelle versionsnummer
+  #   # see https://www.niso.org/sites/default/files/2017-08/RP-8-2008.pdf for vocab
+  #   # CVoR = Corrected Version of Record, VoR = Version of Record, AO = AUthor's Original
+  #   article-version-type: #hier abkürzung als string
+  #   vocab-term: #hier ausgeschrieben als string
+  #   previous_version:
+  #     prev_version_date: 
+  #     prev_version-number: 
+
+#auch beim statement jahr aktualisieren
+copyright:
+    year: 2026
+    statement: '>-  © 2026 The authors. Published under a CC BY license.'
+    holder:
+      - Vorname Nachname 1 #authors
+      - Vorname Nachname 2 #authors
+
+history:
+  received: 
+    iso8601: 
+    year: 2026
+  accepted: 
+    iso8601: 
+    year: 2026
+
+reviewers:
+- name:
+  email:
+  orcid:
+  role: primary
+- name:
+  email:
+  orcid:
+  role: secondary
+editor-in-chief:
+  - name: Evelyn Gius
+    email: evelyn.gius@tu-darmstadt.de
+    orcid: 0000-0001-8888-8419
+    role: editor-in-chief
+
+#uncomment if needed
+guest-editors:
+#   - name: 
+#     email: 
