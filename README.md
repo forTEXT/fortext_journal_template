@@ -412,7 +412,7 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 * Citavi und Citation Keys: https://www1.citavi.com/sub/manual6/en/index.html?cse_customizing_citation_keys.html
 * Better BibTeX Zotero: https://retorque.re/zotero-better-bibtex/citing/
 
-#### Anhänge von Methodenbeiträgen
+#### Anhänge für Methodenbeiträge
 
 Optional können Sie Ihrer Einreichung Beispieldatensätze oder andere Anhänge beifügen. Alle optionalen Anhänge geben Sie in einem Ordner mit dem Namen “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
  
