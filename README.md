@@ -36,7 +36,7 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
 
 Der Ordner [`submission_template`](submission_template) beinhaltet zwei Unterordner mit Vorlagen für die Bestandteile Ihrer Einreichung. Um diese zu nutzen, können Sie die Dateien herunterladen und mit eigenen Inhalten füllen. 
 Verwenden Sie... 
-* für den Beitragstext die Datei [`text.docx`](submission_template/template_lehrmodul/text.docx) oder ['text.docx'](submission_template/template_methodenbeitrag/text.docx),
+* für den Beitragstext die Datei [`template_lehrmodul/text.docx`](submission_template/template_lehrmodul/text.docx) oder [`template_methodenbeitrag/text.docx`](submission_template/template_methodenbeitrag/text.docx),
 * für die Sitzungsübersicht bzw. den Ablaufplan eines Lehrmoduls [`table.csv`](submission_template/table.csv) (nicht relevant für Methodenbeiträge),
 * für die Bibiographie [`bibliography.json`](submission_template/bibliography.json), [`bibliography.bib`](submission_template/bibliography.bib) oder eine äquivalente Datei mit dem Suffix '.bibtex',
 * für die Autor\*innen-Metadaten die Datei [`author_meta.yaml`](submission_template/author_meta.yaml).
