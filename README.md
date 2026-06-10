@@ -8,27 +8,27 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
 * [Übersicht über das Repository](#übersicht-über-das-repository)
   * [Vorlagen](#vorlagen)
 * [Guidelines zur Einreichung von Lehrkonzepten](#guidelines-zur-einreichung-von-lehrkonzepten)
-  * [Umfang](#umfang)
-  * [Sprache und Tempus](#sprache-und-tempus)  
-  * [Abgabeformate und Formatierungshinweise](#abgabeformate-und-formatierungshinweise)
-    * [Artikeltext](#artikeltext)
-    * [Metadaten](#metadaten)
-    * [Literaturverzeichnis](#literaturverzeichnis)
-    * [Zitieren mit Citekeys](#zitieren-mit-citekeys)
-    * [Markdown-Syntax](#markdown-syntax)
-    * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
-    * [Anhänge für Lehrmodule](#anhänge-für-lehrmodule)
+  * [Umfang des Lehrkonzepts](#umfang-des-lehrkonzepts)
+  * [Sprache und Tempus des Lehrkonzepts](#sprache-und-tempus-des-lehrkonzepts)  
+  * [Abgabeformate und Formatierungshinweise für das Lehrkonzept](#abgabeformate-und-formatierungshinweise-für-das-lehrkonzept)
+    * [Artikeltext des Lehrkonzepts](#artikeltext-des-lehrkonzepts)
+    * [Metadaten des Lehrkonzepts](#metadaten-des-lehrkonzepts)
+    * [Literaturverzeichnis des Lehrkonzepts](#literaturverzeichnis-des-lehrkonzepts)
+    * [Zitieren mit Citekeys im Lehrkonzept](#zitieren-mit-citekeys-im-lehrkonzept)
+    * [Markdown-Syntax des Lehrkonzepts](#markdown-syntax-des-lehrkonzepts)
+    * [Verweise zu Textabschnitten des Lehrkonzepts](#verweise-zu-textabschnitten-des-lehrkonzepts)
+    * [Anhänge für Lehrkonzepte](#anhänge-für-lehrkonzepte)
   * [Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten](#inhaltliche-aspekte-der-artikelabschnitte-von-lehrkonzepten)
 * [Guidelines zur Einreichung von Methodenbeiträgen](#guidelines-zur-einreichung-von-methodenbeiträgen)
-  * [Umfang](#umfang)
-  * [Sprache und Tempus](#sprache-und-tempus)  
-  * [Abgabeformate und Formatierungshinweise](#abgabeformate-und-formatierungshinweise)
-    * [Artikeltext](#artikeltext)
-    * [Metadaten](#metadaten)
-    * [Literaturverzeichnis](#literaturverzeichnis)
-    * [Zitieren mit Citekeys](#zitieren-mit-citekeys)
-    * [Markdown-Syntax](#markdown-syntax)
-    * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
+  * [Umfang des Methodenbeitrags](#umfang-des-methodenbeitrags)
+  * [Sprache und Tempus des Methodenbeitrags](#sprache-und-tempus-des-methodenbeitrags)  
+  * [Abgabeformate und Formatierungshinweise für den Methodenbeitrag](#abgabeformate-und-formatierungshinweise-für-den-methodenbeitrag)
+    * [Artikeltext des Methodenbeitrags](#artikeltext-des-methodenbeitrags)
+    * [Metadaten des Methodenbeitrags](#metadaten-des-methodenbeitrags)
+    * [Literaturverzeichnis des Methodenbeitrags](#literaturverzeichnis-des-methodenbeitrags)
+    * [Zitieren mit Citekeys im Methodenbeitrag](#zitieren-mit-citekeys-im-methodenbeitrag)
+    * [Markdown-Syntax des Methodenbeitrags](#markdown-syntax-des-methodenbeitrags)
+    * [Verweise zu Textabschnitten des Methodenbeitrags](#verweise-zu-textabschnitten-des-methodenbeitrags)
     * [Anhänge für Methodenbeiträge](#anhänge-für-methodenbeiträge)
   * [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen)
 
@@ -62,7 +62,7 @@ Die Einreichungen der Lehrkonzepte müssen dem folgenden Aufbau folgen:
 Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten](#inhaltliche-aspekte-der-artikelabschnitte-von-lehrkonzepten) zu entnehmen.
 
 
-#### Umfang
+#### Umfang des Lehrkonzepts
 Einreichungen sind sowohl für ganze Semesterpläne als auch für kleinere Lehrformate (z.B. Workshops, mehrere Sitzungen eines Seminars zum Thema, Hackathons etc.) möglich. Der Umfang des Beitrags sowie die Wortzahl der einzelnen Bestandteile hängen daher stark vom eingereichten Lehrformat ab. Grundsätzlich sollte Ihre Einreichung einen Umfang von 5200 Wörtern nicht wesentlich überschreiten. Die folgenden Angaben zum Umfang dienen Ihnen als Orientierung. Pro Rubrik sollte die angegebene Wortzahl nicht wesentlich überschritten werden:
  
 - Abstract: maximal 80 Wörter
@@ -71,24 +71,24 @@ Einreichungen sind sowohl für ganze Semesterpläne als auch für kleinere Lehrf
 - Sitzungsablauf: maximal 2500 Wörter
 - Reflexion: maximal 1200 Wörter
 
-#### Sprache und Tempus
+#### Sprache und Tempus des Lehrkonzepts
 Es werden ausschließlich deutschsprachige Beiträge akzeptiert.
 Alle Lehrkonzepte sollen sich zur Nachnutzung eignen und Instruktionscharakter haben. Bitte verfassen Sie Ihren Beitrag daher im Präsens. Den Reflexionsteil und einzelne Punkte der Rahmenbedingungen in der Einleitung (bspw. wann und wo das Lehrkonzept bereits durchgeführt wurde) können Sie im Perfekt darstellen.
 Achten Sie insgesamt bitte darauf einfache Satzstrukturen zu nutzen, Passivkonstruktionen zu vermeiden, Fachbegriffe und Abkürzungen bei Erstnennung zu erklären und Begriffe einheitlich zu verwenden (z.B. durchgängig “Seminar” oder “Lehrveranstaltung”). 
 
 Nutzen Sie bitte das Gendersternchen (\*).
 
-## Abgabeformate und Formatierungshinweise
+## Abgabeformate und Formatierungshinweise für das Lehrkonzept
 
 Hinweis: Bitte ändern Sie die im Template vorgegebenen Dateinamen nicht!
 
-#### Artikeltext
+#### Artikeltext des Lehrkonzepts
 
 Ein Abstract, der Einführungstext, der Gesamtablauf, die Sitzungsbeschreibungen sowie der Reflexionstext sind als Fließtexte in der Docx-Datei mit dem Namen ```text.docx``` (siehe [Template](submission_template/text.docx) unter der jeweiligen Überschrift einzufügen.
 Sie können die Überschriften der einzelnen Abschnitte anpassen und Subüberschriften beliebig hinzufügen. Ändern Sie jedoch bitte nicht die Anzahl der vorgegebenen Level-1-Überschriften.
 
 
-#### Tabellarische Sitzungsübersicht
+#### Tabellarische Sitzungsübersicht des Lehrkonzepts
 
 Die Sitzungsübersicht reichen Sie als Tabelle in einer separaten Datei im CSV-Format ein (```table.csv```). Ändern Sie weder Spaltenanzahl noch -namen. Bitte achten Sie darauf, die Tabelle mit dem Encoding UTF-8 zu speichern. 
 Wenn Sie die Tabelle in einem Code-Editor bearbeiten, müssen Zellen durch ein Komma (",") voneinander getrennt werden. 
@@ -97,12 +97,12 @@ Aufzählungen innerhalb einer Zelle können Sie durch ein Semikolon (";") umsetz
 Inhaltliche Guidelines zur Verfassung Ihrer Beiträge finden Sie auf dieser Seite unter [Guidelines - Inhalt](#guidelines---inhalt).
  
 
-#### Metadaten
+#### Metadaten des Lehrkonzepts
 
 Die Metadaten der Autor\*innen müssen in einer Metadatendatei im yaml-Format abgegeben werden (siehe Datei [`author_meta.yaml`](submission_template/author_meta.yaml) im Template). Bitte beachten Sie die im Template aufgeführten Hinweise. Zu den relevanten Metadaten gehören: Vorname, Nachname, ORCID, Affiliation, E-Mail-Adresse aller Autor\*innen, der Titel ihres Artikels sowie der Veranstaltungstyp bzw. das Lehrformat, für welches ihr Lehrkonzept entworfen wurde (Workshop, Proseminar etc.), die Anzahl der Sitzungen, auf die sich Ihr eingereichtes Lehrkonzept bezieht (zwei Workshoptage = zwei Sitzungen etc.) sowie 5 Keywords aus dieser Auswahl: https://journal.fortext.org/site/fortext_keywords/. Fügen Sie keine zusätzlichen Informationen hinzu.
 
 
-#### Literaturverzeichnis
+#### Literaturverzeichnis des Lehrkonzepts
 
 Die In-Text-Referenzen sowie das Literaturverzeichnis werden von der Redaktion automatisch generiert und im Zitationsstil “The Chicago Manual of Style” formatiert.
 
@@ -115,7 +115,7 @@ Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien i
 _Hinweis_: Es ist nicht nötig, dass Sie am Ende Ihres Fließtextes eine Referenzliste aufführen. 
 
  
-#### Zitieren mit Citekeys
+#### Zitieren mit Citekeys im Lehrkonzept
 
 Alle Beiträge werden von der Redaktion unter der Nutzung von Pandoc formatiert und gelayoutet. Aus diesem Grund bitten wir Sie, sämtliche Referenzen als Citekeys anzugeben, d. h. alle In-Text-Verweise werden durch entsprechende Citekeys gesetzt. Citekeys können Sie in Ihrem Literaturverwaltungsprogramm manuell vergeben oder automatisiert generieren. Die meisten Literaturverwaltungsprogramme unterstützen die automatisierte Generierung von Citekeys. In Citavi können Sie diese Option beispielsweise freischalten (siehe:https://www1.citavi.com/sub/manual6/de/index.html?bibtex_keys.html). Wenn Sie mit Zotero arbeiten, können Sie die Erweiterung “Better BibTeX” installieren (https://retorque.re/zotero-better-bibtex/). Für jeden Eintrag in Ihrem Literaturverzeichnis werden dann automatisch Citekeys erstellt. Diese Citekeys nutzen Sie dann in Ihrer Einreichung, um Referenzen zu markieren.
 
@@ -138,7 +138,7 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 * Citavi und Citation Keys: https://www1.citavi.com/sub/manual6/en/index.html?cse_customizing_citation_keys.html
 * Better BibTeX Zotero: https://retorque.re/zotero-better-bibtex/citing/
 
-#### Anhänge
+#### Anhänge für Lehrkonzepte
 
 Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Aufgabenvorschläge, Evaluationen etc. beifügen. Alle optionalen Anhänge geben Sie im Ordner “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
  
@@ -350,7 +350,7 @@ Die Einreichungen der Methodenbeiträge müssen dem folgenden Aufbau folgen:
 Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen) zu entnehmen.
 
 
-#### Umfang
+#### Umfang des Methodenbeitrags
 Grundsätzlich sollte Ihre Einreichung einen Umfang von 4.000 Wörtern nicht wesentlich überschreiten. Die folgenden Angaben zum Umfang dienen Ihnen als Orientierung. Pro Rubrik sollte die angegebene Wortzahl nicht wesentlich überschritten werden:
  
 - Abstract: maximal 100 Wörter
@@ -360,27 +360,27 @@ Grundsätzlich sollte Ihre Einreichung einen Umfang von 4.000 Wörtern nicht wes
 - Technische Grundlagen: maximal 1000 Wörter
 - Diskussion: maximal 1000 Wörter
 
-#### Sprache und Tempus
+#### Sprache und Tempus des Methodenbeitrags
 Es werden ausschließlich deutschsprachige Beiträge akzeptiert. Die Zielgruppe des forTEXT Journals besteht aus geisteswissenschaftlichen Forschenden und Studierenden mit einem Erstinteresse (nicht zwingend verbunden mit bereits bestehenden technischen Kompetenzen) für Digital Humanities.
 Bitte verfassen Sie Ihren Beitrag im Präsens. Achten Sie darauf, dass Ihr Beitrag technisch niederschwellig formuliert ist. Versuchen Sie insgesamt, einfache Satzstrukturen zu nutzen, Passivkonstruktionen zu vermeiden, Fachbegriffe und Abkürzungen bei Erstnennung zu erklären und Begriffe einheitlich zu verwenden. Seitens der geisteswissenschaftlichen Konzepte können Sie hingegen ein gewisses Grundverständnis voraussetzen.
 
 Nutzen Sie bitte das Gendersternchen (\*).
 
-## Abgabeformate und Formatierungshinweise
+## Abgabeformate und Formatierungshinweise für den Methodenbeitrag
 
 Hinweis: Bitte ändern Sie die im Template vorgegebenen Dateinamen nicht!
 
-#### Artikeltext
+#### Artikeltext des Methodenbeitrags
 
 Ein Abstract, eine Definition, ein Anwendungsbeispiel, die geisteswissenschaftliche Tradition, technische Grundlagen und die Diskussion sind als Fließtexte in der Docx-Datei mit dem Namen ```text.docx``` (siehe [Template](submission_template/template_methodenbeitrag/text.docx) unter der jeweiligen Überschrift einzufügen.
 Sie können die Überschriften der einzelnen Abschnitte anpassen und Subüberschriften beliebig hinzufügen. Ändern Sie jedoch bitte nicht die Anzahl der vorgegebenen Level-1-Überschriften.
 
-#### Metadaten
+#### Metadaten des Methodenbeitrags
 
 Die Metadaten der Autor\*innen müssen in einer Metadatendatei im yaml-Format abgegeben werden (siehe Datei [`author_meta.yaml`](submission_template/template_methodenbeitrag/author_meta.yaml) im Template). Bitte beachten Sie die im Template aufgeführten Hinweise. Zu den relevanten Metadaten gehören: Vorname, Nachname, ORCID, Affiliation, E-Mail-Adresse aller Autor\*innen, der Titel ihres Artikels sowie 5 Keywords aus dieser Auswahl: https://journal.fortext.org/site/fortext_keywords/. Fügen Sie keine zusätzlichen Informationen hinzu.
 
 
-#### Literaturverzeichnis
+#### Literaturverzeichnis des Methodenbeitrags
 
 Die In-Text-Referenzen sowie das Literaturverzeichnis werden von der Redaktion automatisch generiert und im Zitationsstil “The Chicago Manual of Style” formatiert.
 
@@ -393,7 +393,7 @@ Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien i
 _Hinweis_: Es ist nicht nötig, dass Sie am Ende Ihres Fließtextes eine Referenzliste aufführen. 
 
  
-#### Zitieren mit Citekeys
+#### Zitieren mit Citekeys im Methodenbeitrag
 
 Alle Beiträge werden von der Redaktion unter der Nutzung von Pandoc formatiert und gelayoutet. Aus diesem Grund bitten wir Sie, sämtliche Referenzen als Citekeys anzugeben, d. h. alle In-Text-Verweise werden durch entsprechende Citekeys gesetzt. Citekeys können Sie in Ihrem Literaturverwaltungsprogramm manuell vergeben oder automatisiert generieren. Die meisten Literaturverwaltungsprogramme unterstützen die automatisierte Generierung von Citekeys. In Citavi können Sie diese Option beispielsweise freischalten (siehe:https://www1.citavi.com/sub/manual6/de/index.html?bibtex_keys.html). Wenn Sie mit Zotero arbeiten, können Sie die Erweiterung “Better BibTeX” installieren (https://retorque.re/zotero-better-bibtex/). Für jeden Eintrag in Ihrem Literaturverzeichnis werden dann automatisch Citekeys erstellt. Diese Citekeys nutzen Sie dann in Ihrer Einreichung, um Referenzen zu markieren.
 
@@ -416,7 +416,7 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 * Citavi und Citation Keys: https://www1.citavi.com/sub/manual6/en/index.html?cse_customizing_citation_keys.html
 * Better BibTeX Zotero: https://retorque.re/zotero-better-bibtex/citing/
 
-#### Anhänge
+#### Anhänge von Methodenbeiträgen
 
 Optional können Sie Ihrer Einreichung Beispieldatensätze oder andere Anhänge beifügen. Alle optionalen Anhänge geben Sie in einem Ordner mit dem Namen “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
  
