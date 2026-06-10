@@ -336,7 +336,7 @@ Orientieren Sie sich gerne an den folgenden Punkten. Nicht alle Punkte werden f�
 
 # Guidelines zur Einreichung von Methodenbeiträgen
 
-Die Einreichungen der Lehrkonzepte müssen dem folgenden Aufbau folgen:
+Die Einreichungen der Methodenbeiträge müssen dem folgenden Aufbau folgen:
 
 1. Abstract
 2. Definition
