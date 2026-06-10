@@ -19,7 +19,7 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
     * [Anhänge](#anhänge)
   * [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte)
-* [Guidelines zur Einreichung von Lehrkonzepten](#guidelines-zur-einreichung-von-lehrkonzepten)
+* [Guidelines zur Einreichung von Methodenbeiträgen](#guidelines-zur-einreichung-von-methodenbeiträgen)
   * [Umfang](#umfang)
   * [Sprache und Tempus](#sprache-und-tempus)  
   * [Abgabeformate und Formatierungshinweise](#abgabeformate-und-formatierungshinweise)
@@ -334,6 +334,293 @@ Orientieren Sie sich gerne an den folgenden Punkten. Nicht alle Punkte werden f�
 * Welche Sitzungen waren besonders produktiv/ weniger produktiv?
 
 
+# Guidelines zur Einreichung von Methodenbeiträgen
+
+Die Einreichungen der Lehrkonzepte müssen dem folgenden Aufbau folgen:
+
+1. Abstract
+2. Definition
+3. Anwendungsbeispiel
+4. Geisteswissenschaftliche Tradition
+5. Technische Grundlagen
+6. Diskussion
+7. Literaturverzeichnis, das die in der Veranstaltung genutzten Primär- und Sekundärtexte und evtl. weitere Referenzen enthält
+8. Optional: Anhänge (z.B. Korpora oder andere Datensätze)
+
+Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen) zu entnehmen.
+
+
+#### Umfang
+Grundsätzlich sollte Ihre Einreichung einen Umfang von 4.000 Wörtern nicht wesentlich überschreiten. Die folgenden Angaben zum Umfang dienen Ihnen als Orientierung. Pro Rubrik sollte die angegebene Wortzahl nicht wesentlich überschritten werden:
+ 
+- Abstract: maximal 100 Wörter
+- Definition: maximal 300 Wörter
+- Anwendungsbeispiel: maximal 800 Wörter
+- Geisteswissenschaftliche Tradition: maximal 800 Wörter
+- Technische Grundlagen: maximal 1000 Wörter
+- Diskussion: maximal 1000 Wörter
+
+#### Sprache und Tempus
+Es werden ausschließlich deutschsprachige Beiträge akzeptiert.
+Alle Lehrkonzepte sollen sich zur Nachnutzung eignen und Instruktionscharakter haben. Bitte verfassen Sie Ihren Beitrag daher im Präsens. Den Reflexionsteil und einzelne Punkte der Rahmenbedingungen in der Einleitung (bspw. wann und wo das Lehrkonzept bereits durchgeführt wurde) können Sie im Perfekt darstellen.
+Achten Sie insgesamt bitte darauf einfache Satzstrukturen zu nutzen, Passivkonstruktionen zu vermeiden, Fachbegriffe und Abkürzungen bei Erstnennung zu erklären und Begriffe einheitlich zu verwenden (z.B. durchgängig “Seminar” oder “Lehrveranstaltung”). 
+
+Nutzen Sie bitte das Gendersternchen (\*).
+
+## Abgabeformate und Formatierungshinweise
+
+Hinweis: Bitte ändern Sie die im Template vorgegebenen Dateinamen nicht!
+
+#### Artikeltext
+
+Ein Abstract, der Einführungstext, der Gesamtablauf, die Sitzungsbeschreibungen sowie der Reflexionstext sind als Fließtexte in der Docx-Datei mit dem Namen ```text.docx``` (siehe [Template](submission_template/text.docx) unter der jeweiligen Überschrift einzufügen.
+Sie können die Überschriften der einzelnen Abschnitte anpassen und Subüberschriften beliebig hinzufügen. Ändern Sie jedoch bitte nicht die Anzahl der vorgegebenen Level-1-Überschriften.
+
+
+#### Tabellarische Sitzungsübersicht
+
+Die Sitzungsübersicht reichen Sie als Tabelle in einer separaten Datei im CSV-Format ein (```table.csv```). Ändern Sie weder Spaltenanzahl noch -namen. Bitte achten Sie darauf, die Tabelle mit dem Encoding UTF-8 zu speichern. 
+Wenn Sie die Tabelle in einem Code-Editor bearbeiten, müssen Zellen durch ein Komma (",") voneinander getrennt werden. 
+Aufzählungen innerhalb einer Zelle können Sie durch ein Semikolon (";") umsetzen.
+
+Inhaltliche Guidelines zur Verfassung Ihrer Beiträge finden Sie auf dieser Seite unter [Guidelines - Inhalt](#guidelines---inhalt).
+ 
+
+#### Metadaten
+
+Die Metadaten der Autor\*innen müssen in einer Metadatendatei im yaml-Format abgegeben werden (siehe Datei [`author_meta.yaml`](submission_template/author_meta.yaml) im Template). Bitte beachten Sie die im Template aufgeführten Hinweise. Zu den relevanten Metadaten gehören: Vorname, Nachname, ORCID, Affiliation, E-Mail-Adresse aller Autor\*innen, der Titel ihres Artikels sowie der Veranstaltungstyp bzw. das Lehrformat, für welches ihr Lehrkonzept entworfen wurde (Workshop, Proseminar etc.), die Anzahl der Sitzungen, auf die sich Ihr eingereichtes Lehrkonzept bezieht (zwei Workshoptage = zwei Sitzungen etc.) sowie 5 Keywords aus dieser Auswahl: https://journal.fortext.org/site/fortext_keywords/. Fügen Sie keine zusätzlichen Informationen hinzu.
+
+
+#### Literaturverzeichnis
+
+Die In-Text-Referenzen sowie das Literaturverzeichnis werden von der Redaktion automatisch generiert und im Zitationsstil “The Chicago Manual of Style” formatiert.
+
+Sie müssen daher eine Datei einreichen, die alle Referenzen, die Sie im Fließtext oder in der Sitzungsübersicht zitieren oder dem Anhang hinzufügen, enthält. Sämtliche in der Veranstaltung genutzten Primär- und Sekundärtexte sowie von Ihnen für den Beitrag ergänzte Referenzen müssen in dieser Datei aufgeführt werden.
+
+Sie können Ihr Literaturverzeichnis als BibLaTeX- (```bibliography.bib```), BiBTeX- (```bibliography.bibtex```) oder als CSL JSON-Datei (```bibliography.json```) einreichen. Die vollständigen bibliografischen Metadaten (wie Vorname, Nachname aller Autor\*innen und Herausgeber*innen, Publikationsort, URL, DOI etc.) müssen in Ihrer BibTeX-Datei sauber und vollständig hinterlegt sein.
+
+Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien im [Template Ordner](submssion_template) ein. Alternativ können Sie eine solche Datei auch in Ihrem Literaturverwaltungsprogramm automatisiert generieren lassen. Bitte achten Sie auch hier darauf, die Dateinamen (```bibliography.bib```bzw. ```bibliography.json```) nicht zu verändern. 
+
+_Hinweis_: Es ist nicht nötig, dass Sie am Ende Ihres Fließtextes eine Referenzliste aufführen. 
+
+ 
+#### Zitieren mit Citekeys
+
+Alle Beiträge werden von der Redaktion unter der Nutzung von Pandoc formatiert und gelayoutet. Aus diesem Grund bitten wir Sie, sämtliche Referenzen als Citekeys anzugeben, d. h. alle In-Text-Verweise werden durch entsprechende Citekeys gesetzt. Citekeys können Sie in Ihrem Literaturverwaltungsprogramm manuell vergeben oder automatisiert generieren. Die meisten Literaturverwaltungsprogramme unterstützen die automatisierte Generierung von Citekeys. In Citavi können Sie diese Option beispielsweise freischalten (siehe:https://www1.citavi.com/sub/manual6/de/index.html?bibtex_keys.html). Wenn Sie mit Zotero arbeiten, können Sie die Erweiterung “Better BibTeX” installieren (https://retorque.re/zotero-better-bibtex/). Für jeden Eintrag in Ihrem Literaturverzeichnis werden dann automatisch Citekeys erstellt. Diese Citekeys nutzen Sie dann in Ihrer Einreichung, um Referenzen zu markieren.
+
+Ein In-Text Verweis mit einem Citekey beginnt grundsätzlich mit einem @. Darüber hinaus gibt es verschiedene Möglichkeiten die Referenz zu gestalten. Dabei gelten die folgenden Regeln:
+
+* Einfache Referenz in Klammern: [@smith2021] führt zu -> (Smith 2021)
+* Direkte Erwähnung: @smith2021 führt zu -> Smith (2021)
+* Mehrere Quellen: [@doe2023; @smith2022; @smith2021] führt zu -> (Doe 2023, Smith 2021, 2022) 
+* Seitenangabe: [@smith2021, 11 f.] führt zu -> (Smith 2021, 11 f.) 
+* Seitenangabe mehrseitig: [@smith2021, 11--14] führt zu -> (Smith 2021, 11-14)
+* Mehrere Seitenangaben:[@smith2021, 11--14, 102] führt zu -> (Smith 2021, 11-14, 102)
+* Seitenangaben bei direkter Erwähnung: @smith2021 [11--14] führt zu -> Smith (2021, 11-14)
+* Kombination der Regeln: [vgl. @Zimmermann-2000, 21-22;@Boekaerts-2000, 418--419, 432] führt -> zu (vgl. Zimmermann 2000, 21–22; Boekaerts und Niemivirta 2000, 418–419, 432)
+
+
+Weiter Hinweise zur Nutzung von Citekeys finden sie hier: https://pandoc.org/chunkedhtml-demo/8.20-citation-syntax.html
+
+Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
+
+* Citavi und Citation Keys: https://www1.citavi.com/sub/manual6/en/index.html?cse_customizing_citation_keys.html
+* Better BibTeX Zotero: https://retorque.re/zotero-better-bibtex/citing/
+
+#### Anhänge
+
+Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Aufgabenvorschläge, Evaluationen etc. beifügen. Alle optionalen Anhänge geben Sie im Ordner “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
+ 
+
+## Inhaltliche Aspekte der Artikelabschnitte
+
+Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
+
+- [1. Abstract](#1-abstract)
+- [2. Einführungstext](#2-einführungstext)
+  - [2.1 Rahmenbedingungen](#21-rahmenbedingungen)
+  - [2.2 Voraussetzungen der Teilnehmenden](#22-voraussetzungen-der-teilnehmenden)
+  - [2.3 Durchführung der Lehrveranstaltung (in Bezug auf das eingereichte Lehrkonzept)](#23-durchführung-der-lehrveranstaltung-in-bezug-auf-das-eingereichte-lehrkonzept)
+- [3. Beschreibung des Gesamtablaufs](#3-beschreibung-des-gesamtablaufs)
+- [4. Sitzungsübersicht bei Semesterplänen oder Ablaufübersicht bei kleineren Lehrformaten wie Blockseminaren oder Workshops als Tabelle](#4-sitzungsübersicht-bei-semesterplänen-oder-ablaufübersicht-bei-kleineren-lehrformaten-wie-blockseminaren-oder-workshops-als-tabelle)
+- [5. Detaillierte Darstellung der Sitzungen bzw. Einheiten zum Thema Textannotation](#5-detaillierte-darstellung-der-sitzungen-bzw-einheiten-zum-thema-textannotation)
+- [6. Reflexion des Lehrkonzepts: Gelungene Ansätze und Herausforderungen](#6-reflexion-des-lehrkonzepts-gelungene-ansätze-und-herausforderungen)
+  - [6.1. Rahmenbedingungen \& Durchführung der Veranstaltung](#61-rahmenbedingungen--durchführung-der-veranstaltung)
+  - [6.2. Studierende](#62-studierende)
+
+
+
+#### 1. Abstract 
+Beschreiben sie in bis zu 80 Wörtern die wichtigsten Aspekte Ihres Lehrkonzept. 
+
+#### 2. Einführungstext
+
+Beschreiben Sie die Veranstaltung in bis zu 600 Wörtern. Dieser Text soll insbesondere die Rahmenbedingungen sowie die Voraussetzungen der Teilnehmenden beleuchten. Bitte gehen sie in Fließtextform daher auf die folgenden Punkte zu ihrer Lehrveranstaltung ein.
+Es ist Ihnen freigestellt, ob Sie diesen Abschnitt in die entsprechenden Unterpunkte gliedern oder nicht.
+
+
+##### 2.1 Rahmenbedingungen
+
+* Titel der Veranstaltung
+* Ziel der Veranstaltung/des Workshops/der vorgestellten Sitzungen 
+* Optional: Beschreibung der Schnittstelle Geisteswissenschaft + Informatik/DH (sofern vorhanden)
+* Typ der Veranstaltung und sofern anwendbar, Angabe der ECTS und die Art der Prüfungsleistung
+_Beispiele:_ Vorlesung, Übung, Blockseminar, Projekt, Workshop
+* Umfang: Für wie viele Semesterwochen bzw. Sitzungen ist das Lehrkonzept konzipiert?
+_Beispiele:_ 2 Workshoptage, 16 Semesterwochen o.ä.
+* Modus: Fand die Lehrveranstaltung asynchron/synchron/gemischt statt?
+* Ungefähre Studierendenzahl
+* Wann und wo wurde die Lehrveranstaltung angeboten?
+_Beispiele:_ Winter-/Sommersemester 2023 an der TU Darmstadt
+
+
+##### 2.2 Voraussetzungen der Teilnehmenden
+
+* Zielgruppe: Für welche Zielgruppe(n) ist das Lehrkonzept ausgerichtet? Für Bachelorstudierende, Masterstudierende? Und welcher Studiengänge?
+* Notwendige Vorkenntnisse in Bezug auf das Fach und/oder technische Voraussetzungen und Vorkenntnisse (ggf. differenziert nach Gruppen)
+_Beispiele:_ Grundkenntnisse in der Erzähltheorie; Arbeiten mit der Commandline, Programmierkenntnisse mit R, Erfahrungen mit Annotationstool CATMA
+* Kenntnisstand in Bezug auf das wissenschaftliche Arbeiten
+* Vorhandene überfachliche Kompetenzen 
+_Beispiele:_ Projektarbeitserfahrung, Sprachkenntnisse, interkulturelle Erfahrung
+* Studentische Ausstattung
+_Beispiele:_ Laptop, Lizenzen, Internetverbindung
+
+
+
+##### 2.3 Durchführung der Lehrveranstaltung (in Bezug auf das eingereichte Lehrkonzept)
+
+* Verfügbarkeit von Medien und Materialien – Welche Materialien waren für die Umsetzung der Lehrveranstaltung notwendig?
+_Beispiele:_ Beamer, Lizenz für Online-Meetings, WLAN, Flipchart, PC Pool
+* Welche Medien wurden zur Vermittlung von Kompetenzen genutzt? 
+_Beispiele:_ “Im Seminar werden Videotutorials auf Youtube zur Einführung in das Tool X genutzt.”, “In einzelnen Sitzungen werden Primärtexte diskutiert, die zuvor vorbereitend gelesen wurden.”
+* Unterstützung durch TutorInnen o.ä.
+* Informationen zum Arbeitsmodus
+_Beispiele:_ Wöchentliche Aufgaben/Abgaben, Referate
+* Optional: Information zur Prüfungsleistung
+_Beispiel 1:_ “Für das vorgestellte Lehrkonzept ergibt sich keine Prüfungsleistung, da nur ein Teil einer Veranstaltung präsentiert wird/ da keine Prüfungsleistung abgelegt werden muss.”
+_Beispiel 2:_ “Das vorgestellte Seminar wird mit einer Studienleistung abgeschlossen. Als Studienleistung sollen Studierende in Gruppen eine Präsentation zu einem von ihnen annotierten literaturwissenschaftlichem Phänomen am Ende des Semester halten.”
+
+
+
+#### 3. Beschreibung des Gesamtablaufs
+
+
+In diesem Teil ihrer Einreichungen beschreiben sie kurz und prägnant den Gesamtablauf des eingereichten Lehrkonzepts in bis zu 600 Wörtern. 
+Dieser Abschnitt soll einen Gesamtüberblick über den Verlauf des vorgestellten Lehrkonzepts geben. 
+Unter Punkt [4. Sitzungsbeschreibungen](#4-detaillierte-darstellung-der-sitzungen-bzw-einheiten-zum-thema-textannotation) haben Sie die Möglichkeit, die einzelnen Sitzungen/Einheiten/Arbeitsblöcke im Detail zu beschreiben.
+Gehen Sie in diesem Abschnitt auf die Lerninhalte und die zu vermittelnden Kompetenzen in den Einheiten ihres Lehrkonzepts ein.
+
+
+_Beispiel 1:_ "Die Teilnehmer\*innen des Workshops können nach der Teilnahme eigenständig in CATMA annotieren. Dafür beginnt der Workshop mit einer Einführung in das literaturwissenschaftliche Annotieren. In den folgenden 2 Einheiten wird das Annotationstool CATMA vorgestellt und die Durchführung der verschiedenen Annotationsmöglichkeiten erarbeitet. In der 4. Einheit erstellen die Teilnehmer*innen Annotationen mit einem von ihnen gewählten Text. Der Workshop wird mit der Präsentation der eigenen Annotationen in Einheit 5 abgeschlossen."  
+
+_Beispiel 2:_ "Die Selbststudieneinheit zielt darauf ab, die Lerninhalte Narrationstheorie und die Großgattung Prosa, die Erzählung "Krambambuli" von Marie von Ebner-Eschenbach sowie die Einführung und Anwendung der literaturwissenschaftlichen Methode des Annotierens, sowohl manuell analog als auch manuell digital mit dem Annotationstool CATMA zu vermitteln. Zudem beinhaltet die Einheit die Einzeltextanalyse der Primärlektüre mit einem besonderen Fokus auf die Figurencharakterisierung. [...]"
+
+
+
+#### 4. Sitzungsübersicht bei Semesterplänen oder Ablaufübersicht bei kleineren Lehrformaten wie Blockseminaren oder Workshops als Tabelle
+
+Die Sitzungsübersicht dient als Übersicht Ihres Lehrkonzepts. Und soll Leser*innen einen schnellen Überblick über die Strukturierung ihrer Einheiten ermöglichen. Im darauf folgenden Schritt haben sie die Möglichkeit, ihre Sitzungen im Detail zu beschreiben. Bitte füllen Sie die Tabelle daher stichpunktartig in chronologischer Reihenfolge aus.
+Lektüre, Videos und andere Inhalte geben Sie durch die Nutzung von Citekeys an. Diese Citekeys müssen auch in ihrem Literaturverzeichnis vorhanden sein.
+Hinweis zur Formatierung: Aufzählungselemente sind durch ein “;” zu trennen.
+
+
+
+**Tabellenstruktur:**
+
+
+
+| Einheit |	Modus |	Thema |	Inhalt | (Lern-)ziel(e) | Vorbereitung für Studierende | Vorbereitung	Für Lehrende | Arbeitsauftrag |
+|---------|-------|-------|--------|----------------|-------------------------------|----------------------------|----------------|
+| 1       |	synchron; online |	Einführungssitzung | Einführungsfolien und Semesterplan vorstellen | 	Überblick zum Semester | - | Powerpoint-Präsentation vorbereiten | - |
+| 10:00-11:00 |	synchron; präsenz |	Einführungseinheit | Tool X vorstellen und Kenntnisstand der Studierenden abfragen | Hauptfunktionen von Tool X kennenlernen und beherrschen | - | - | - |
+
+
+
+**Übersicht & Erklärung der Spaltennamen:**
+
+* <ins>Spalte 1 (Einheit)</ins>  
+Dient zur Gliederung ihrer Veranstaltung. Die Nummerierung erfolgt in Abhängigkeit von ihrem eingereichten Lehrkonzept. Bei Syllabi schlagen wir vor, für jede Sitzung eine Nummer zu vergeben, bei Workshops je nach Dauer/Länge können Sie die Start- und Endzeit oder die Dauer von Einheiten mit bestimmten Fokusthemen angeben. 
+_Beispiele:_ “1” für Sitzungsnummer 1 eines Semesterplans, “ca. 1 Stunde” für eine Einheit ihres Workshops oder “10:00 - 12:00 Uhr”
+* <ins>Spalte 2 (Modus)</ins>  
+Geben Sie an, ob die Sitzung/Einheit synchron oder asynchron konzipiert ist und, ob es sich um eine Online- oder Präsenzsitzung handelt
+_Beispiele:_ “synchron, online” 
+* <ins>Spalte 3 (Thema)</ins>  
+Nenne Sie einen Titel der Sitzung/Einheit
+_Beispiele:_ “Einführungssession”, “Einführung in CATMA”, “Lektürediskussion”
+* <ins>Spalte 4 (Inhalt)</ins>  
+Zählen Sie die Inhalte auf, die in der Sitzung behandelt werden (z.B. Einführung in ein Tool, Diskussion von Lektüre, Projektpräsentation etc.)
+_Beispiele:_ “Organisatorisches, Theoretische Einführung in CATMA”, “Seminarlektüre @autorcitekey”,“Einführung zum Thema Figurenanalyse mit Slides @slidesimAnhang”, “Annotationstool CATMA: www.catma.de”
+  * _Hinweis:_ Bitte fügen Sie relevante Metadaten zu bspw. Lektüre auch in das Literaturverzeichnis hinzu und referenzieren Sie den entsprechenden Citekey bei der Aufzählung.
+* <ins>Spalte 5 (Lern-)ziel(e))</ins>  
+Nennen Sie das Lernziel der SItzung/Einheit
+_Beispiele:_ “Visualisierungsmöglichkeiten von CATMA lernen”, “Texte im Tool CATMA hochladen”, Grundlagen der Figurenanalyse verstehen und anwenden”
+* <ins>Spalte 6 (Vorbereitung für Studierende)</ins>  
+Zählen Sie die Inhalte auf, die die Studierenden bis zu dieser Sitzung/Einheit vorbereiten sollen (Recherche, Lesen, Videos anschauen). Führen Sie ggf. entsprechende Citekeys auf.
+Beispiele: “Lesen des Kapitels 2.3. zu Narratologie in @fortextetal2026”, “Kontoeinrichtung auf catma.de” 
+* <ins>Spalte 7 (Lehrvorbereitung)</ins>  
+Zählen Sie die für die Lehrperson für diese Sitzung relevanten Inhalte oder Vorbereitungen auf. Das können Vorbereitungen wie das Hochladen von Texten auf einer Lernplattform, das Anlegen eines Useraccounts oder die Nennung von (weiterführender) Literatur oder Webseiten sein. Referenzieren Sie relevante Literatur durch Citekeys.
+Beispiele: “@fortext2026, @hander2026”, “\[Podiumsdiskussion](www.annolehren345.de)”
+* <ins>Spalte 8 (Arbeitsauftrag)</ins>  
+Beschreiben Sie eine Auf- bzw. Abgabe, die den Studierenden in dieser Sitzung/Einheit aufgetragen wird und nennen Sie die Sitzungsnummer/-einheit, zu welcher diese ggf. fällig ist. Nummerieren Sie die Abgabe/Aufgabe gegebenenfalls. 
+Ein solcher Arbeitsauftrag sollte dann in der entsprechenden Sitzung unter "Vorbereitung für Studierende" genannt werden.
+_Beispiele:_ “Abgabe 1: Textzusammenfassung bis Sitzung 9”
+
+
+
+#### 5. Detaillierte Darstellung der Sitzungen bzw. Einheiten zum Thema Textannotation
+
+In diesem Teil des Beitrags haben sie die Möglichkeit, die einzelnen Sitzungen/Einheiten/Arbeitsblöcke zum Thema Textannotation genauer zu beschreiben. Es handelt sich somit um einen ausformulierten Fließtext, der sich mit Ihrer Sitzungsübersicht deckt. Sie sollten das Thema der Einheit nennen, auf die Inhalte, Lernziele und die Durchführung im Detail eingehen sowie ggf. Aufgabenstellungen formulieren. Nennen Sie außerdem relevante Literatur, indem Sie dafür die entsprechenden Citekeys aufführen.
+Insgesamt sollte dieser Abschnitt nicht mehr als 2500 Wörter enthalten. Jede Sitzungsbeschreibung/Einheitsbeschreibung (bei Workshops) beginnt, analog zur Spalte 1 in der Sitzungsübersicht, mit der Nummer der Sitzung bzw. der Dauer der Einheit sowie dem Titel.
+
+
+
+_Beispiel 1:_
+Einführungssitzung:
+In der Einführungssitzung wird den Studierenden der Seminarplan vorgestellt. Diese Sitzung dient insbesondere organisatorischen Zwecken. 
+Für die nächste Sitzung (Nr. 2) sollen die Studierenden die Lerneinheit “Digitale Annotation mit CATMA lehren” vorbereiten [@schumacherLerneinheitDigitaleAnnotation2020].  
+
+
+
+_Beispiel 2:_
+(Phase 2, 30 Minuten) Einführungseinheit
+In der Einführungseinheit wird den Studierenden der Ablauf des Workshops vorgestellt. Außerdem wird in einer Fragerunde erläutert, welche Kenntnisse die Studierenden zum Thema Sentimentanalyse haben.
+
+
+#### 6. Reflexion des Lehrkonzepts: Gelungene Ansätze und Herausforderungen
+
+In diesem Teil des Beitrages reflektieren Sie Ihre Lehrveranstaltung in Form eines Fließtextes in bis zu 1200 Wörtern.
+Allgemein gilt, dass Sie insbesondere in Bezug auf die Zielgruppe und Lernziele darauf eingehen sollten, wie sich genutzte Methoden und Materialien, der Aufbau/die Struktur des Lehrkonzepts bewährt haben. Reflektieren Sie gelungene Elemente und gehen Sie auf Herausforderungen des Lehrkonzepts ein, die sich möglicherweise im Laufe der Veranstaltung ergeben haben. 
+Nennen Sie ggf. Ideen oder Lösungsvorschläge zur Überwindung der genannten Herausforderungen oder, falls Sie das Lehrkonzept mehrmals angewendet haben, welche Anpassungen Sie weshalb getätigt haben. Gehen Sie darauf ein, ob Sie bei erneuter Durchführung des Konzepts Anpassungen durchführen würden. Stellen Sie dabei einen Bezug zu Gründen oder möglichen Ursachen auf.
+Gehen Sie auch gerne auf Feedback ein, das Sie im Zuge der Durchführung Ihrer Veranstaltung erhalten haben.
+
+
+
+_Beispiel:_ “Insgesamt bin ich zufrieden mit dem Verlauf der Selbststudieneinheit sowie der aktiven Beteiligung der Studierenden. Meine Bedenken, dass die geplanten Zeitabschnitte für Arbeitsaufgaben und Plenumsdiskussionen zu eng getaktet sein könnten, hatten sich nicht bestätigt. Dies lag vor allem daran, dass ich die Zeitplanung durchgängig im Blick hatte und Diskussionen so moderierte, dass wir den Zeitrahmen einhielten.
+Retrospektiv konnte ich feststellen, dass die Vierteilung des Lehrprojekts eine gute Idee war und die Studierenden das Angebot einer asynchronen Selbststudieneinheit anstelle einer synchronen Sitzung gut annahmen. [...]”
+
+
+Orientieren Sie sich gerne an den folgenden Punkten. Nicht alle Punkte werden für Ihr Konzept relevant sein. Sie müssen daher nicht auf alle Punkte eingehen und können einzelne je nach Relevanz in Bezug auf ihre Erfahrungen detaillierter ausführen als andere. Es ist Ihnen freigestellt, ob Sie diesen Abschnitt in die folgenden Unterpunkte gliedern oder nicht:
+
+
+##### 6.1. Rahmenbedingungen & Durchführung der Veranstaltung
+
+* War der Veranstaltungstyp (Übung, (Pro)Seminar etc.) in Bezug auf das Lernziel angemessen?
+* Umfang und Inhalt: Hat die geplante Durchführung der tatsächlichen Durchführung entsprochen? Zu welchen Änderungen/Anpassungen kam es und was waren die Ursachen?
+* Blended Learning: War die Mischung von synchron und asynchronen Elementen sinnvoll? Ggf. Hätte sich die Mischung von synchronen und asynchronen Sitzungen angeboten? 
+* Verfügbarkeit von Medien und Materialien: Waren Medien und Materialien (Beamer, Smartboard, Online-Meetings, WLAN) verfügbar und notwendig?
+* Materialzugänglichkeit (Bücher, Online-Materialien, Geräte, Ausstattung)
+* Tutor\*innen: War die Unterstützung von Tutor\*nnen sinnvoll? Oder wäre die Unterstützung im Rückblick sinnvoll?
+* Wie haben sich die Frequenz und der Umfang der Vorbereitungen/Aufgaben/Abgaben bewährt?
+* Hat sich die Prüfungsform als sinnvoll erwiesen?
+
+##### 6.2. Studierende
+
+* Zielgruppe: Studierende welcher Fachrichtungen und welches angestrebten Hochschulgrades (Bachelor/Master) haben tatsächlich ihre Veranstaltung besucht? Zu welchen Anpassungen führte die möglw. von der Planung abweichende Zielgruppe?
+* Waren ausreichend Vorkenntnisse in Bezug auf das Fach (ggf. differenziert nach Gruppen) gegeben? Falls nicht: Wie haben Sie darauf reagiert? Hätten bestimmte Sitzungen ausführlicher oder ggf. zusätzlich eingeplant werden müssen?
+* Haben Sich überfachliche Kompetenzen als hilfreich erwiesen? (z.B. Projektarbeitserfahrung, Sprachkenntnisse, interkulturelle Erfahrung)
+* Welche technischen Voraussetzungen und Vorkenntnisse waren tatsächlich vorhanden oder wären zwingend notwendig gewesen?
+* Gab es für Studierende Barrieren und wie konnten bzw. können diese ggf. überwunden werden?
+* Welche Sitzungen waren besonders produktiv/ weniger produktiv?
 
 
 
