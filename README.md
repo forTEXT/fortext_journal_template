@@ -143,7 +143,7 @@ Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Auf
 
 Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
 
-- [1. Abstract](#1-abstract)
+- [1. Abstract des Lehrkonzepts](#1-abstract-des-lehrkonzepts)
 - [2. Einführungstext](#2-einführungstext)
   - [2.1 Rahmenbedingungen](#21-rahmenbedingungen)
   - [2.2 Voraussetzungen der Teilnehmenden](#22-voraussetzungen-der-teilnehmenden)
@@ -157,7 +157,7 @@ Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres 
 
 
 
-#### 1. Abstract 
+#### 1. Abstract des Lehrkonzepts
 Beschreiben sie in bis zu 80 Wörtern die wichtigsten Aspekte Ihres Lehrkonzept. 
 
 #### 2. Einführungstext
@@ -421,7 +421,7 @@ Optional können Sie Ihrer Einreichung Beispieldatensätze oder andere Anhänge 
 
 Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
 
-- [1. Abstract](#1-abstract)
+- [1. Abstract des Methodenbeitrags](#1-abstract-des-methodenbeitrags)
 - [2. Definition](#2-definition)
 - [3. Anwendungsbeispiel](#3-anwendungsbeispiel)
 - [4. Geisteswissenschaftliche Tradition](#4-geisteswissenschaftliche-tradition)
