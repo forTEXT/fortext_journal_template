@@ -2,8 +2,8 @@
 
 In diesem Repository finden Sie Vorlagen und Beispiele für Ihre Einreichung sowie Guidelines zu den erforderlichen Artikelabschnitten.
 
-Beiträge werden unter der Verwendung des hier bereitgestellten Templates erstellt. Nutzen Sie den Ordner [`submission_template`](submission_template) als Vorlage, indem Sie diesen herunterladen, mit Ihren Inhalten und Informationen "befüllen" und diesen dann anschließend als ZIP-Ordner auf unserem Publikationssystem hochladen. Alle notwendigen Dateien finden Sie dort in den vorgesehenen Formaten. 
-Die Guidelines zur Erstellung ihrer Beiträge finden Sie auf der forTEXT Seite unter [Guidenlies zur Einreichung von Lehrkonzepten](https://www.fortext-hefte.de/site/guidelines/) oder [auf dieser Seite unter folgendem Abschnitt](#inhaltliche-aspekte-der-artikelabschnitte). Hinweise zu Formatierungen finden Sie unter ["Abgabeformate und Formatierungshinweise"](#abgabeformate-und-formatierungshinweise).
+Beiträge werden unter der Verwendung der hier bereitgestellten Templates erstellt. In dem Ordner [`submission_template`](submission_template) als Vorlage finden Sie zwei Unterordner: [`template_lehrmodul`](template_lehrmodul) und [`template_methodenbeitrag`](template_methodenbeitrag). Laden Sie den für Sie relevanten Ordner herunter und "befüllen" Sie ihn mit Ihren Inhalten. Anschließend laden Sie ihn als ZIP-Ordner auf unserem Publikationssystem hoch. Alle notwendigen Dateien finden Sie dort in den vorgesehenen Formaten. 
+Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite unter [Einreichungsguidelines](https://www.fortext-hefte.de/site/guidelines/). Hinweise zu Formatierungen finden Sie unter ["Abgabeformate und Formatierungshinweise"](#abgabeformate-und-formatierungshinweise).
 
 * [Übersicht über das Repository](#übersicht-über-das-repository)
   * [Vorlagen](#vorlagen)
@@ -19,17 +19,29 @@ Die Guidelines zur Erstellung ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
     * [Anhänge](#anhänge)
   * [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte)
+* [Guidelines zur Einreichung von Lehrkonzepten](#guidelines-zur-einreichung-von-lehrkonzepten)
+  * [Umfang](#umfang)
+  * [Sprache und Tempus](#sprache-und-tempus)  
+  * [Abgabeformate und Formatierungshinweise](#abgabeformate-und-formatierungshinweise)
+    * [Artikeltext](#artikeltext)
+    * [Metadaten](#metadaten)
+    * [Literaturverzeichnis](#literaturverzeichnis)
+    * [Zitieren mit Citekeys](#zitieren-mit-citekeys)
+    * [Markdown-Syntax](#markdown-syntax)
+    * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
+    * [Anhänge](#anhänge)
+  * [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte)
 
 #### Vorlagen
 
-Der Ordner [`submission_template`](submission_template) beinhaltet Vorlagen für die Bestandteile Ihrer Einreichung. Um diese zu nutzen, können Sie die Dateien herunterladen und mit eigenen Inhalten füllen. 
+Der Ordner [`submission_template`](submission_template) beinhaltet zwei Unterordner mit Vorlagen für die Bestandteile Ihrer Einreichung. Um diese zu nutzen, können Sie die Dateien herunterladen und mit eigenen Inhalten füllen. 
 Verwenden Sie... 
-* für den Beitragstext die Datei [`text.docx`](submission_template/text.docx),
-* für die SItzungsübersicht bzw. den Ablaufplan [`table.csv`](submission_template/table.csv),
+* für den Beitragstext die Datei [`text.docx`](submission_template/template_lehrmodul/text.docx) oder ['text.docx'](submission_template/template_methodenbeitrag/text.docx),
+* für die Sitzungsübersicht bzw. den Ablaufplan eines Lehrmoduls [`table.csv`](submission_template/table.csv) (nicht relevant für Methodenbeiträge),
 * für die Bibiographie [`bibliography.json`](submission_template/bibliography.json), [`bibliography.bib`](submission_template/bibliography.bib) oder eine äquivalente Datei mit dem Suffix '.bibtex',
 * für die Autor\*innen-Metadaten die Datei [`author_meta.yaml`](submission_template/author_meta.yaml).
 
-Für Anhänge erstellen Sie einen Ordner "Anhänge", in welchen Sie alle weiteren Dateien im PDF-Format legen.
+Für Anhänge erstellen Sie einen Ordner "Anhänge", in den Sie alle weiteren Dateien im PDF-Format legen.
 Alle Dateien reichen Sie dann komprimiert als ZIP-Ordner ein. 
 
 
