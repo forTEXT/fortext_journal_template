@@ -18,7 +18,7 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Markdown-Syntax](#markdown-syntax)
     * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
     * [Anhänge](#anhänge)
-  * [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte)
+  * [Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten](#inhaltliche-aspekte-der-artikelabschnitte-von-lehrkonzepten)
 * [Guidelines zur Einreichung von Methodenbeiträgen](#guidelines-zur-einreichung-von-methodenbeiträgen)
   * [Umfang](#umfang)
   * [Sprache und Tempus](#sprache-und-tempus)  
@@ -59,7 +59,7 @@ Die Einreichungen der Lehrkonzepte müssen dem folgenden Aufbau folgen:
 7. Literaturverzeichnis, das die in der Veranstaltung genutzten Primär- und Sekundärtexte und evtl. weitere Referenzen enthält
 8. Optional: Anhänge (z.B. Handouts, Präsentationen, Lösungsvorschläge, Evaluationen)
 
-Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte) zu entnehmen.
+Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten](#inhaltliche-aspekte-der-artikelabschnitte-von-lehrkonzepten) zu entnehmen.
 
 
 #### Umfang
@@ -143,7 +143,7 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Aufgabenvorschläge, Evaluationen etc. beifügen. Alle optionalen Anhänge geben Sie im Ordner “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
  
 
-## Inhaltliche Aspekte der Artikelabschnitte
+## Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten
 
 Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
 
@@ -347,7 +347,7 @@ Die Einreichungen der Methodenbeiträge müssen dem folgenden Aufbau folgen:
 7. Literaturverzeichnis
 8. Optional: Anhänge (z.B. Korpora oder andere Datensätze)
 
-Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen) zu entnehmen.
+Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen) zu entnehmen.
 
 
 #### Umfang
@@ -421,7 +421,7 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 Optional können Sie Ihrer Einreichung Beispieldatensätze beifügen. Alle optionalen Anhänge geben Sie in einem Ordner mit dem Namen “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
  
 
-## Inhaltliche Aspekte der Artikelabschnitte
+## Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen
 
 Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
 
