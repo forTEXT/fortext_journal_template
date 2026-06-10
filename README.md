@@ -388,7 +388,7 @@ Sie müssen daher eine Datei einreichen, die alle Referenzen enthält, die Sie i
 
 Sie können Ihr Literaturverzeichnis als BibLaTeX- (```bibliography.bib```), BiBTeX- (```bibliography.bibtex```) oder als CSL JSON-Datei (```bibliography.json```) einreichen. Die vollständigen bibliografischen Metadaten (wie Vorname, Nachname aller Autor\*innen und Herausgeber*innen, Publikationsort, URL, DOI etc.) müssen in Ihrer BibTeX-Datei sauber und vollständig hinterlegt sein.
 
-Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien im [Template Ordner](submssion_template) ein. Alternativ können Sie eine solche Datei auch in Ihrem Literaturverwaltungsprogramm automatisiert generieren lassen. Bitte achten Sie auch hier darauf, die Dateinamen (```bibliography.bib```bzw. ```bibliography.json```) nicht zu verändern. 
+Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien im [Template Ordner](submssion_template/template_methodenbeitrag) ein. Alternativ können Sie eine solche Datei auch in Ihrem Literaturverwaltungsprogramm automatisiert generieren lassen. Bitte achten Sie auch hier darauf, die Dateinamen (```bibliography.bib```bzw. ```bibliography.json```) nicht zu verändern. 
 
 _Hinweis_: Es ist nicht nötig, dass Sie am Ende Ihres Fließtextes eine Referenzliste aufführen. 
 
@@ -418,7 +418,7 @@ Weitere Hinweise zur Generierung von Citekeys in Citavi bzw. Zotero:
 
 #### Anhänge
 
-Optional können Sie Ihrer Einreichung Beispieldatensätze beifügen. Alle optionalen Anhänge geben Sie in einem Ordner mit dem Namen “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
+Optional können Sie Ihrer Einreichung Beispieldatensätze oder andere Anhänge beifügen. Alle optionalen Anhänge geben Sie in einem Ordner mit dem Namen “anhänge” ab. Bitte erstellen Sie für jeden Anhang einen Eintrag in der Datei author_meta.yaml, indem Sie in dem dafür vorgesehenen Bereich den Titel des Anhangs, die Autor*innen-Namen und das Jahr eintragen. Um im Fließtext auf Anhänge zu verweisen, verwenden Sie bitte eine Notation der Art "(siehe Anhang "Titel des Anhangs")". 
  
 
 ## Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen
