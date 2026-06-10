@@ -384,7 +384,7 @@ Sie müssen daher eine Datei einreichen, die alle Referenzen enthält, die Sie i
 
 Sie können Ihr Literaturverzeichnis als BibLaTeX- (```bibliography.bib```), BiBTeX- (```bibliography.bibtex```) oder als CSL JSON-Datei (```bibliography.json```) einreichen. Die vollständigen bibliografischen Metadaten (wie Vorname, Nachname aller Autor\*innen und Herausgeber*innen, Publikationsort, URL, DOI etc.) müssen in Ihrer BibTeX-Datei sauber und vollständig hinterlegt sein.
 
-Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien im [Template Ordner](submssion_template/template_methodenbeitrag) ein. Alternativ können Sie eine solche Datei auch in Ihrem Literaturverwaltungsprogramm automatisiert generieren lassen. Bitte achten Sie auch hier darauf, die Dateinamen (```bibliography.bib```bzw. ```bibliography.json```) nicht zu verändern. 
+Für Ihre Einreichung tragen Sie Ihre Daten in eine der entsprechenden Dateien im [Template Ordner](submission_template/template_methodenbeitrag) ein. Alternativ können Sie eine solche Datei auch in Ihrem Literaturverwaltungsprogramm automatisiert generieren lassen. Bitte achten Sie auch hier darauf, die Dateinamen (```bibliography.bib```bzw. ```bibliography.json```) nicht zu verändern. 
 
 _Hinweis_: Es ist nicht nötig, dass Sie am Ende Ihres Fließtextes eine Referenzliste aufführen. 
 
