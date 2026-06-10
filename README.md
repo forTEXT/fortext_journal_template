@@ -429,7 +429,7 @@ Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres 
 
 
 
-#### 1. Abstract 
+#### 1. Abstract des Methodenbeitrags
 Ihr Abstract sollte kurz und knapp die wichtigsten Aspekte Ihres Beitrags in bis zu 100 Wörtern ausführen.
 
 #### 2. Definition
