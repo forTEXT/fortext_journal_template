@@ -15,8 +15,6 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Metadaten des Lehrkonzepts](#metadaten-des-lehrkonzepts)
     * [Literaturverzeichnis des Lehrkonzepts](#literaturverzeichnis-des-lehrkonzepts)
     * [Zitieren mit Citekeys im Lehrkonzept](#zitieren-mit-citekeys-im-lehrkonzept)
-    * [Markdown-Syntax des Lehrkonzepts](#markdown-syntax-des-lehrkonzepts)
-    * [Verweise zu Textabschnitten des Lehrkonzepts](#verweise-zu-textabschnitten-des-lehrkonzepts)
     * [Anhänge für Lehrkonzepte](#anhänge-für-lehrkonzepte)
   * [Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten](#inhaltliche-aspekte-der-artikelabschnitte-von-lehrkonzepten)
 * [Guidelines zur Einreichung von Methodenbeiträgen](#guidelines-zur-einreichung-von-methodenbeiträgen)
@@ -27,8 +25,6 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Metadaten des Methodenbeitrags](#metadaten-des-methodenbeitrags)
     * [Literaturverzeichnis des Methodenbeitrags](#literaturverzeichnis-des-methodenbeitrags)
     * [Zitieren mit Citekeys im Methodenbeitrag](#zitieren-mit-citekeys-im-methodenbeitrag)
-    * [Markdown-Syntax des Methodenbeitrags](#markdown-syntax-des-methodenbeitrags)
-    * [Verweise zu Textabschnitten des Methodenbeitrags](#verweise-zu-textabschnitten-des-methodenbeitrags)
     * [Anhänge für Methodenbeiträge](#anhänge-für-methodenbeiträge)
   * [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen)
 
