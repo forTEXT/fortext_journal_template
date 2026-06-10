@@ -30,7 +30,7 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
     * [Markdown-Syntax](#markdown-syntax)
     * [Verweise zu Textabschnitten](#verweise-zu-textabschnitten)
     * [Anhänge](#anhänge)
-  * [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeitraegen)
+  * [Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen)
 
 #### Vorlagen
 
