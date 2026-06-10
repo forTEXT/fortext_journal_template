@@ -344,7 +344,7 @@ Die Einreichungen der Lehrkonzepte müssen dem folgenden Aufbau folgen:
 4. Geisteswissenschaftliche Tradition
 5. Technische Grundlagen
 6. Diskussion
-7. Literaturverzeichnis, das die in der Veranstaltung genutzten Primär- und Sekundärtexte und evtl. weitere Referenzen enthält
+7. Literaturverzeichnis
 8. Optional: Anhänge (z.B. Korpora oder andere Datensätze)
 
 Detaillierte Erklärungen zu den Artikelabschnitten und den erwarteten Inhalten sind dem Punkt [Inhaltliche Aspekte der Artikelabschnitte](#inhaltliche-aspekte-der-artikelabschnitte-von-methodenbeiträgen) zu entnehmen.
@@ -361,9 +361,8 @@ Grundsätzlich sollte Ihre Einreichung einen Umfang von 4.000 Wörtern nicht wes
 - Diskussion: maximal 1000 Wörter
 
 #### Sprache und Tempus
-Es werden ausschließlich deutschsprachige Beiträge akzeptiert.
-Alle Lehrkonzepte sollen sich zur Nachnutzung eignen und Instruktionscharakter haben. Bitte verfassen Sie Ihren Beitrag daher im Präsens. Den Reflexionsteil und einzelne Punkte der Rahmenbedingungen in der Einleitung (bspw. wann und wo das Lehrkonzept bereits durchgeführt wurde) können Sie im Perfekt darstellen.
-Achten Sie insgesamt bitte darauf einfache Satzstrukturen zu nutzen, Passivkonstruktionen zu vermeiden, Fachbegriffe und Abkürzungen bei Erstnennung zu erklären und Begriffe einheitlich zu verwenden (z.B. durchgängig “Seminar” oder “Lehrveranstaltung”). 
+Es werden ausschließlich deutschsprachige Beiträge akzeptiert. Die Zielgruppe des forTEXT Journals besteht aus geisteswissenschaftlichen Forschenden und Studierenden mit einem Erstinteresse (nicht zwingend verbunden mit bereits bestehenden technischen Kompetenzen) für Digital Humanities.
+Bitte verfassen Sie Ihren Beitrag im Präsens. Achten Sie darauf, dass Ihr Beitrag technisch niederschwellig formuliert ist. Versuchen Sie insgesamt, einfache Satzstrukturen zu nutzen, Passivkonstruktionen zu vermeiden, Fachbegriffe und Abkürzungen bei Erstnennung zu erklären und Begriffe einheitlich zu verwenden. Seitens der geisteswissenschaftlichen Konzepte können Sie hingegen ein gewisses Grundverständnis voraussetzen.
 
 Nutzen Sie bitte das Gendersternchen (\*).
 
