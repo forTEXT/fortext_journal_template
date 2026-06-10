@@ -2,7 +2,7 @@
 
 In diesem Repository finden Sie Vorlagen und Beispiele für Ihre Einreichung sowie Guidelines zu den erforderlichen Artikelabschnitten.
 
-Beiträge werden unter der Verwendung der hier bereitgestellten Templates erstellt. In dem Ordner [`submission_template`](submission_template) als Vorlage finden Sie zwei Unterordner: [`template_lehrmodul`](template_lehrmodul) und [`template_methodenbeitrag`](template_methodenbeitrag). Laden Sie den für Sie relevanten Ordner herunter und "befüllen" Sie ihn mit Ihren Inhalten. Anschließend laden Sie ihn als ZIP-Ordner auf unserem Publikationssystem hoch. Alle notwendigen Dateien finden Sie dort in den vorgesehenen Formaten. 
+Beiträge werden unter der Verwendung der hier bereitgestellten Templates erstellt. In dem Ordner [`submission_template`](submission_template) als Vorlage finden Sie zwei Unterordner: [`template_lehrmodul`](submission_template/template_lehrmodul) und [`template_methodenbeitrag`](submission_template/template_methodenbeitrag). Laden Sie den für Sie relevanten Ordner herunter und "befüllen" Sie ihn mit Ihren Inhalten. Anschließend laden Sie ihn als ZIP-Ordner auf unserem Publikationssystem hoch. Alle notwendigen Dateien finden Sie dort in den vorgesehenen Formaten. 
 Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite unter [Einreichungsguidelines](https://www.fortext-hefte.de/site/guidelines/). Hinweise zu Formatierungen finden Sie unter ["Abgabeformate und Formatierungshinweise"](#abgabeformate-und-formatierungshinweise).
 
 * [Übersicht über das Repository](#übersicht-über-das-repository)
