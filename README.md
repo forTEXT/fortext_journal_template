@@ -2,7 +2,7 @@
 
 In diesem Repository finden Sie Vorlagen und Beispiele für Ihre Einreichung sowie Guidelines zu den erforderlichen Artikelabschnitten.
 
-Beiträge werden unter der Verwendung der hier bereitgestellten Templates erstellt. In dem Ordner [`submission_template`](submission_template) als Vorlage finden Sie zwei Unterordner: [`template_lehrmodul`](submission_template/template_lehrmodul) und [`template_methodenbeitrag`](submission_template/template_methodenbeitrag). Laden Sie den für Sie relevanten Ordner herunter und "befüllen" Sie ihn mit Ihren Inhalten. Anschließend laden Sie ihn als ZIP-Ordner auf unserem Publikationssystem hoch. Alle notwendigen Dateien finden Sie dort in den vorgesehenen Formaten. 
+Beiträge werden unter der Verwendung der hier bereitgestellten Templates erstellt. In dem Ordner [`submission_template`](submission_template) als Vorlage finden Sie zwei Unterordner: [`template_lehrkonzept`](submission_template/template_lehrkonzept) und [`template_methodenbeitrag`](submission_template/template_methodenbeitrag). Laden Sie den für Sie relevanten Ordner herunter und "befüllen" Sie ihn mit Ihren Inhalten. Anschließend laden Sie ihn als ZIP-Ordner auf unserem Publikationssystem hoch. Alle notwendigen Dateien finden Sie dort in den vorgesehenen Formaten. 
 Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite unter [Einreichungsguidelines](https://www.fortext-hefte.de/site/guidelines/). Hinweise zu Formatierungen finden Sie unter ["Abgabeformate und Formatierungshinweise"](#abgabeformate-und-formatierungshinweise).
 
 * [Übersicht über das Repository](#übersicht-über-das-repository)
@@ -32,9 +32,9 @@ Die Guidelines zur Erstellung Ihrer Beiträge finden Sie auf der forTEXT Seite u
 
 Der Ordner [`submission_template`](submission_template) beinhaltet zwei Unterordner mit Vorlagen für die Bestandteile Ihrer Einreichung. Um diese zu nutzen, können Sie die Dateien herunterladen und mit eigenen Inhalten füllen. 
 Verwenden Sie... 
-* für den Beitragstext die Datei [`template_lehrmodul/text.docx`](submission_template/template_lehrkonzept/text.docx) oder [`template_methodenbeitrag/text.docx`](submission_template/template_methodenbeitrag/text.docx),
+* für den Beitragstext die Datei [`template_lehrkonzept/text.docx`](submission_template/template_lehrkonzept/text.docx) oder [`template_methodenbeitrag/text.docx`](submission_template/template_methodenbeitrag/text.docx),
 * für die Sitzungsübersicht bzw. den Ablaufplan eines Lehrmoduls [`table.csv`](submission_template/template_lehrkonzept/table.csv) (nicht relevant für Methodenbeiträge),
-* für die Bibiographie [`template_lehrkonzept/bibliography.bib`](submission_template/template_lehrkonzept/bibliography.bib) bzw. [`template_methodenbeitrag/bibliography.bib`](submission_template/template_methodenbeitrag/bibliography.bib) oder eine äquivalente Datei mit dem Suffix '.bibtex',
+* für die Bibiographie [`template_lehrkonzept/bibliography.bib`](submission_template/template_lehrkonzept/bibliography.bib) bzw. [`template_methodenbeitrag/bibliography.bib`](submission_template/template_methodenbeitrag/bibliography.bib) oder eine äquivalente Datei mit dem Suffix '.bibtex' oder '.json',
 * für die Autor\*innen-Metadaten die Datei [`template_lehrkonzept/author_meta.yaml`](submission_template/template_lehrkonzept/author_meta.yaml) oder [`template_methodenbeitrag/author_meta.yaml`](submission_template/template_methodenbeitrag/author_meta.yaml).
 
 Für Anhänge erstellen Sie einen Ordner "Anhänge", in den Sie alle weiteren Dateien im PDF-Format legen.
@@ -141,7 +141,7 @@ Optional können Sie Ihrer Einreichung entworfene Handouts, Präsentationen, Auf
 
 ## Inhaltliche Aspekte der Artikelabschnitte von Lehrkonzepten
 
-Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
+Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite des Journals](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
 
 - [1. Abstract des Lehrkonzepts](#1-abstract-des-lehrkonzepts)
 - [2. Einführungstext](#2-einführungstext)
@@ -419,7 +419,7 @@ Optional können Sie Ihrer Einreichung Beispieldatensätze oder andere Anhänge 
 
 ## Inhaltliche Aspekte der Artikelabschnitte von Methodenbeiträgen
 
-Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite der forTEXT-Hefte](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
+Im folgenden stellen wir Ihnen Guidelines zur inhaltlichen Strukturierung Ihres Beitrags zur Verfügung. Die folgenden Guidelines finden Sie auch auf der [Seite des Journals](https://www.fortext-hefte.de/site/guidelines/). Die Guidelines beziehen sich explizit auf den Inhalt. 
 
 - [1. Abstract des Methodenbeitrags](#1-abstract-des-methodenbeitrags)
 - [2. Definition](#2-definition)
@@ -472,4 +472,4 @@ Gehen Sie in ca. 500-1000 Wörtern auf verschiedene Ausprägungen/Implementierun
 
 
 
-Bei Fragen oder Anregungen wenden Sie sich gerne an redaktion@fortext-hefte.de. Wir helfen Ihnen gerne weiter und sind für jede Anregung zur Verbesserung unserer Richtlinien dankbar.
+Bei Fragen oder Anregungen wenden Sie sich gerne an redaktion@journal.fortext.org. Wir helfen Ihnen gerne weiter und sind für jede Anregung zur Verbesserung unserer Richtlinien dankbar.
